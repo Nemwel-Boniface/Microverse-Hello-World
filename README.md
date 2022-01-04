@@ -21,31 +21,31 @@ It is a show of my understanding of Gitflow, use of Linters and basic HTML5 and 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 - To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 - You only need a browser to run the html file in.
 
 ### Setup
+
 - Create a new folder to store the files in.
 
 ### Install
+
 - Open your command prompt or terminal and run.
 - git clone git@github.com:Nemwel-Boniface/Microverse-Hello-World.git .
 
 
-### Usage
-
 ### Run tests
+
 - To run tests run :
 - npx hint .
 - npx stylelint "**/*.{css,scss}"
 
 ### Deployment
+
 - Project is deployed using 
 - git push <branch_name>
 
@@ -64,7 +64,7 @@ It is a show of my understanding of Gitflow, use of Linters and basic HTML5 and 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Nemwel-Boniface/Microverse-Hello-World).
 
 ## Show your support
 
